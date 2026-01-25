@@ -1,2 +1,3 @@
--- insert into post(name, writedate, content) values ('정환열', '2019-06-28 00:00:00', '결혼 축하합니다');
+-- insert into post(name, writedate, content) values ('jenkins', '2026-01-01 00:00:00', '배포합니다.');
+
 select now();
